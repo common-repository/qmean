@@ -1,0 +1,1644 @@
+# Copyright (C) 2018 weDevs
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: QMean\n"
+"Report-Msgid-Bugs-To: https://wedevs.com/account/tickets/\n"
+"POT-Creation-Date: 2023-07-22 11:49+0300\n"
+"PO-Revision-Date: 2023-07-22 11:49+0300\n"
+"Last-Translator: \n"
+"Language-Team: <arashsafari.dev@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: blocks/did-you-mean/build\n"
+"X-Poedit-SearchPathExcluded-1: blocks/did-you-mean/node_modules\n"
+
+#: blocks/did-you-mean/src/edit.js:40 blocks/did-you-mean/src/edit.js:41
+msgid "Did you mean?"
+msgstr ""
+
+#: blocks/did-you-mean/src/edit.js:47 blocks/did-you-mean/src/save.js:29
+msgid "<Suggested"
+msgstr ""
+
+#: blocks/did-you-mean/src/edit.js:47 blocks/did-you-mean/src/save.js:29
+msgid "words"
+msgstr ""
+
+#: blocks/did-you-mean/src/edit.js:48 blocks/did-you-mean/src/save.js:29
+msgid "will go here>"
+msgstr ""
+
+#: blocks/did-you-mean/src/filter-search-block.js:44
+msgid "Post title"
+msgstr ""
+
+#: blocks/did-you-mean/src/filter-search-block.js:45
+msgid "Post excerpt"
+msgstr ""
+
+#: blocks/did-you-mean/src/filter-search-block.js:46
+msgid "Post content"
+msgstr ""
+
+#: blocks/did-you-mean/src/filter-search-block.js:47
+msgid "Terms"
+msgstr ""
+
+#: blocks/did-you-mean/src/filter-search-block.js:48
+msgid "Post meta"
+msgstr ""
+
+#: blocks/did-you-mean/src/filter-search-block.js:110 inc/class-qmean.php:606
+#: inc/class-qmean.php:607 templates/settings.php:29
+msgid "QMean"
+msgstr ""
+
+#: blocks/did-you-mean/src/filter-search-block.js:134
+msgid "Activate QMean"
+msgstr ""
+
+#: blocks/did-you-mean/src/filter-search-block.js:159
+#: templates/settings.php:117 templates/settings.php:128
+msgid "Auto Set Parent Position"
+msgstr ""
+
+#: blocks/did-you-mean/src/filter-search-block.js:160
+msgid "This will help positioning suggestion box."
+msgstr ""
+
+#: blocks/did-you-mean/src/filter-search-block.js:186
+msgid "Do nothing!"
+msgstr ""
+
+#: blocks/did-you-mean/src/filter-search-block.js:190
+msgid "Set to relative"
+msgstr ""
+
+#: blocks/did-you-mean/src/filter-search-block.js:194
+msgid "Set to absolute"
+msgstr ""
+
+#: blocks/did-you-mean/src/filter-search-block.js:201
+msgid "Post types"
+msgstr ""
+
+#: blocks/did-you-mean/src/filter-search-block.js:210
+#: templates/settings.php:378
+msgid "Search in"
+msgstr ""
+
+#: blocks/did-you-mean/src/filter-search-block.js:222
+msgid "Customize suggestion box styles"
+msgstr ""
+
+#: inc/class-ajax.php:100
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: inc/class-ajax.php:190 inc/class-ajax.php:223
+msgid "Please select an element"
+msgstr ""
+
+#: inc/class-ajax.php:202
+msgid ""
+"Saved successfully! Please refresh the page to check the selector by typing "
+"three characters which you know it will lead to results"
+msgstr ""
+
+#: inc/class-ajax.php:233
+msgid "Something went wrong!"
+msgstr ""
+
+#: inc/class-qmean.php:248
+#, php-format
+msgid "Saving query %s failed"
+msgstr ""
+
+#: inc/class-qmean.php:253
+msgid "Please move your mouse and click on your search input field"
+msgstr ""
+
+#: inc/class-qmean.php:254
+msgid "Please click on your field"
+msgstr ""
+
+#: inc/class-qmean.php:275
+msgid "Type to search"
+msgstr ""
+
+#: inc/class-qmean.php:283
+msgid "Search"
+msgstr ""
+
+#: inc/class-qmean.php:348 inc/class-qmean.php:617 inc/class-qmean.php:618
+#: templates/settings.php:16
+msgid "Settings"
+msgstr ""
+
+#: inc/class-qmean.php:392
+msgid "Did you mean"
+msgstr ""
+
+#: inc/class-qmean.php:587
+msgid "Loading ..."
+msgstr ""
+
+#: inc/class-qmean.php:588
+msgid "Back"
+msgstr ""
+
+#: inc/class-qmean.php:589
+msgid "Nothing to suggest! Click to see all the results."
+msgstr ""
+
+#: inc/class-qmean.php:590
+msgid "Please choose a field which is an input like input or textarea"
+msgstr ""
+
+#: inc/class-qmean.php:591
+msgid "is not valid!"
+msgstr ""
+
+#: inc/class-qmean.php:592
+msgid "Save Selector"
+msgstr ""
+
+#: inc/class-qmean.php:593
+msgid "Your selector is"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:7
+msgid "QMean Dashboard"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:9
+msgid ""
+"You can see all user's searched queries here. <strong>Found posts</strong> "
+"is more helpful if you are using <strong>word by word</strong> mode."
+msgstr ""
+
+#: templates/dashboard/dashboard.php:12
+msgid ""
+"You need to define your search field selector first, so for better search "
+"suggestion please visit settings page"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:13
+msgid "Go to Settings page"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:20
+msgid "Total Hits"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:24
+msgid "Keywords"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:28
+msgid "No Results"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:33
+msgid "Search ..."
+msgstr ""
+
+#: templates/dashboard/dashboard.php:38
+#: templates/dashboard/modals/user-eye.php:9
+msgid "Keyword"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:39
+msgid "Hit"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:40
+msgid "Found Posts"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:41
+msgid "Last seached"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:42
+msgid "Actions"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:51
+msgid "ago"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:53
+msgid "User Eye"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:54
+msgid "Remove"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:60
+msgid "Nothing is recorded yet!"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:71
+msgid "«"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:72
+msgid "»"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:80 templates/settings.php:476
+msgid "Need more support? please visit:"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:81 templates/settings.php:477
+msgid "WordPress Support"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:83 templates/settings.php:479
+msgid "GitHub"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:86 templates/settings.php:482
+msgid "Make QMean better"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:87 templates/settings.php:483
+msgid "Write a review"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:88 templates/settings.php:484
+msgid "Take the survey "
+msgstr ""
+
+#: templates/dashboard/modals/user-eye.php:3
+msgid "User is seeing these suggestions for"
+msgstr ""
+
+#: templates/dashboard/modals/user-eye.php:34
+msgid "No keywords found!"
+msgstr ""
+
+#: templates/settings.php:20
+msgid "Essential Setup"
+msgstr ""
+
+#: templates/settings.php:23
+msgid "Suggest Engine"
+msgstr ""
+
+#: templates/settings.php:28
+msgid "Google"
+msgstr ""
+
+#: templates/settings.php:32
+msgid "Search Engine"
+msgstr ""
+
+#: templates/settings.php:33
+msgid ""
+"You can set your suggest engine. Google is super fast, but might have "
+"irrelevant suggestions. QMean might be slower with more relevant "
+"suggestions. You can use <b>search mode</b> option to get the most out of "
+"every engine."
+msgstr ""
+
+#: templates/settings.php:41
+msgid "Block Enabled"
+msgstr ""
+
+#: templates/settings.php:45
+msgid ""
+"Since version 1.9, QMean supports blocks. You can use WordPress core block, "
+"<b>search</b>, to enable suggestions. Additionally, we added <b>Did You "
+"Mean</b> block to use it as a placeholder anywhere."
+msgstr ""
+
+#: templates/settings.php:46
+msgid ""
+"You can still use any CSS selector and QMean auto recognizer. These options "
+"are now available in <b>Advance Setup</b> tab."
+msgstr ""
+
+#: templates/settings.php:48
+msgid "QMean Blocks"
+msgstr ""
+
+#: templates/settings.php:50
+msgid ""
+"We added <b>Did You Mean</b> block and customized WP's search core block."
+msgstr ""
+
+#: templates/settings.php:52
+msgid ""
+"Did You Mean block is a placeholder of the suggestions when no result found. "
+"You can add it anywhere like a normal block and style it as you want."
+msgstr ""
+
+#: templates/settings.php:55
+msgid ""
+"Since version 1.9, <b>WP search</b> block has <b>Qmean Settings</b> when "
+"adding search block. You can enable it and config it as you see fit."
+msgstr ""
+
+#: templates/settings.php:62 templates/settings.php:71
+msgid "Search Mode"
+msgstr ""
+
+#: templates/settings.php:67
+msgid "Word By Word"
+msgstr ""
+
+#: templates/settings.php:68
+msgid "Phrase"
+msgstr ""
+
+#: templates/settings.php:72
+msgid ""
+"Word by word will compelete the search query on every word, individually, "
+"but phrase mode will get the phrase containing the word. Word by word may "
+"produce keyword combinations that won't match to any result but can help the "
+"SEO by reproducing them"
+msgstr ""
+
+#: templates/settings.php:79 templates/settings.php:88
+#: templates/settings.php:104
+msgid "RTL Support"
+msgstr ""
+
+#: templates/settings.php:84 templates/settings.php:100
+#: templates/settings.php:288 templates/settings.php:305
+#: templates/settings.php:340
+msgid "No"
+msgstr ""
+
+#: templates/settings.php:85 templates/settings.php:101
+#: templates/settings.php:304 templates/settings.php:341
+msgid "Yes"
+msgstr ""
+
+#: templates/settings.php:89
+msgid "Instead of using left for positioning it will use right instead"
+msgstr ""
+
+#: templates/settings.php:95
+msgid "Submit After Click"
+msgstr ""
+
+#: templates/settings.php:105
+msgid "Submit the form after clicking on suggestion item"
+msgstr ""
+
+#: templates/settings.php:112
+msgid "Suggestion Box Styles"
+msgstr ""
+
+#: templates/settings.php:122
+msgid "Do Nothing!"
+msgstr ""
+
+#: templates/settings.php:123
+msgid "Relative"
+msgstr ""
+
+#: templates/settings.php:124
+msgid "Absolute"
+msgstr ""
+
+#: templates/settings.php:125
+msgid "Fixed"
+msgstr ""
+
+#: templates/settings.php:129
+msgid ""
+"<strong>IMPORTANT!</strong> Input parent's postion needs to be set for "
+"suggestion wrapper to appear correctly. If the parent doesn't have any "
+"position this can automatically add it. Relative is common and won't harm"
+msgstr ""
+
+#: templates/settings.php:135
+msgid "Suggestions Positioning"
+msgstr ""
+
+#: templates/settings.php:141
+msgid "CSS z-index"
+msgstr ""
+
+#: templates/settings.php:145
+msgid "CSS left"
+msgstr ""
+
+#: templates/settings.php:149
+msgid "CSS Top"
+msgstr ""
+
+#: templates/settings.php:155
+msgid "Width"
+msgstr ""
+
+#: templates/settings.php:159
+msgid "Height"
+msgstr ""
+
+#: templates/settings.php:164
+msgid "Suggestion Result Positioning"
+msgstr ""
+
+#: templates/settings.php:165
+msgid ""
+"Use units too like 50px, 5%, 5rem or any CSS standard unit; Please make sure "
+"that the parent of the input has a position of relative or absolute. Use - "
+"(dash) to automate each value"
+msgstr ""
+
+#: templates/settings.php:166
+msgid ""
+"If RTL support is enabled, the <b>left</b> value will act as <b>right</b> "
+"attribute."
+msgstr ""
+
+#: templates/settings.php:167
+msgid ""
+"You can also use <code>#qmean-suggestion-results</code> selector for "
+"suggestion wrapper and <code>.qmean-suggestion-item</code> for suggestion "
+"item in your CSS file for better styling. Use <code>.qmean-typo-suggestion</"
+"code> for DidYouMean box after the search."
+msgstr ""
+
+#: templates/settings.php:173
+msgid "Suggestions Styles"
+msgstr ""
+
+#: templates/settings.php:179
+msgid "Background Color"
+msgstr ""
+
+#: templates/settings.php:183
+msgid "Border Radius"
+msgstr ""
+
+#: templates/settings.php:187
+msgid "Padding"
+msgstr ""
+
+#: templates/settings.php:192
+msgid "Suggestion Wrapper Styling"
+msgstr ""
+
+#: templates/settings.php:193
+msgid ""
+"Enter standard CSS values like color #ffffff, border radius 0px 0px 0px 0px, "
+"padding 0px 0px 0px 0px. Any standard CSS unit is allowed like em, rem, % "
+"and  ... . order of values is: top right bottom left. Seperate with space."
+msgstr ""
+
+#: templates/settings.php:199
+msgid "Shortcodes"
+msgstr ""
+
+#: templates/settings.php:202
+msgid "QMean Shortcode"
+msgstr ""
+
+#: templates/settings.php:207
+msgid "Instead of selector (above solution) you can use the shortcode."
+msgstr ""
+
+#: templates/settings.php:209
+msgid "How to use, what are the options? and best practices"
+msgstr ""
+
+#: templates/settings.php:212
+msgid ""
+"Use just <code>[qmean]</code> anywhere you want; Post/Page contents, Widgets "
+"and ..."
+msgstr ""
+
+#: templates/settings.php:213
+msgid "You can use these options to customize:"
+msgstr ""
+
+#: templates/settings.php:232
+msgid "Best practices:"
+msgstr ""
+
+#: templates/settings.php:233
+msgid ""
+"Use specific named attribute if you don't know how to use CSS; like "
+"button_height, button_bg and ..."
+msgstr ""
+
+#: templates/settings.php:234
+msgid ""
+"Use in set! Either use style attributes for all of them or use class "
+"attribute for all of them; like form_class, input_class, button_class OR "
+"form_style, input_style and button_style!"
+msgstr ""
+
+#: templates/settings.php:235
+msgid ""
+"* You can use all of them but it won't make sense in general and it might "
+"get confusing :)"
+msgstr ""
+
+#: templates/settings.php:242
+msgid "Did You Mean Shortcode"
+msgstr ""
+
+#: templates/settings.php:247
+msgid ""
+"Use this shortcode in the search page if your theme does not support "
+"<code>get_search_form</code>. <code>wrapper_class</code> is optional"
+msgstr ""
+
+#: templates/settings.php:252
+msgid "Advance Setup"
+msgstr ""
+
+#: templates/settings.php:255 templates/settings.php:262
+msgid "Search Input Selector"
+msgstr ""
+
+#: templates/settings.php:260
+msgid "Use QMean's auto recognizer on front-end"
+msgstr ""
+
+#: templates/settings.php:264
+msgid ""
+"This is the field which will show the suggestions by typing 3 letters. Use "
+"CSS selector in full. e.g. <code>.selector-class</code> OR <code>#selector-"
+"id</code>. This is <strong>THE BEST & EASIEST WAY</strong> to hook QMean to "
+"any field you already have on your theme!"
+msgstr ""
+
+#: templates/settings.php:267
+msgid "How to find the selector fast?"
+msgstr ""
+
+#: templates/settings.php:269
+msgid ""
+"To find the selector, on Chrome or Firefox, right click on your search input "
+"field, then click Inspect Element, then you will see the class or the id "
+"value for the field. If id exists choose it, if not you need to use CSS. "
+msgstr ""
+
+#: templates/settings.php:270
+msgid ""
+"The field might have multiple classes, sperated with spaces; One is enough "
+"then add a dot <code>.</code> at the beginning. It should be like <code>."
+"oneOfThem</code> or you can concatenate them by dot to be sure that is "
+"unique like <code>.first.second.third.fourth</code>."
+msgstr ""
+
+#: templates/settings.php:271
+msgid ""
+"Sometimes the parent element has unique id or class like &lt;form&gt; or &lt;"
+"div&gt; then you can use it like <code>#formId input</code> or "
+"<code>#firmId .inputClass</code>."
+msgstr ""
+
+#: templates/settings.php:275
+#, php-format
+msgid ""
+"<strong>NOTE: </strong>Just add <code>?qmean_field_recognizer</code> at the "
+"end of any URL to activate recognizer and if the URL already has <code>?</"
+"code> then add <code>&qmean_field_recognizer</code> e.g. %s/filter?"
+"qmean_field_recognizer <strong>or</strong> %s/?"
+"s=something&qmean_field_recognizer "
+msgstr ""
+
+#: templates/settings.php:281 templates/settings.php:291
+msgid "Remove stop words"
+msgstr ""
+
+#: templates/settings.php:286
+msgid "Basic"
+msgstr ""
+
+#: templates/settings.php:287
+msgid "Strict"
+msgstr ""
+
+#: templates/settings.php:293
+msgid ""
+"The words which are generally filtered out before processing a natural "
+"language. e.g. a, the, and, or ..."
+msgstr ""
+
+#: templates/settings.php:299 templates/settings.php:308
+msgid "Merge Searched Queries"
+msgstr ""
+
+#: templates/settings.php:310
+msgid ""
+"If set to yes, previous queries searched by other users which have more than "
+"0 results will rank higher based on hit and found_posts"
+msgstr ""
+
+#: templates/settings.php:317 templates/settings.php:326
+msgid "Keyword Efficiency"
+msgstr ""
+
+#: templates/settings.php:322
+msgid "On"
+msgstr ""
+
+#: templates/settings.php:323
+msgid "Off"
+msgstr ""
+
+#: templates/settings.php:328
+msgid ""
+"If on it will count ration of matched characters and total phrase length. "
+"Turn it off if your content is optimized with keywords in a row."
+msgstr ""
+
+#: templates/settings.php:335 templates/settings.php:344
+msgid "Ignore Shortcodes"
+msgstr ""
+
+#: templates/settings.php:345
+msgid "If yes, shorcodes and their content will be ignored"
+msgstr ""
+
+#: templates/settings.php:352 templates/settings.php:358
+msgid "Limit Results"
+msgstr ""
+
+#: templates/settings.php:359
+msgid ""
+"Number of results to show. Your search may have a lot of matched keywords. "
+"This number will limit them."
+msgstr ""
+
+#: templates/settings.php:365 templates/settings.php:371
+msgid "Found phrase word count"
+msgstr ""
+
+#: templates/settings.php:372
+msgid "Trim the phrase to by words to this number"
+msgstr ""
+
+#: templates/settings.php:385
+msgid "Posts titles"
+msgstr ""
+
+#: templates/settings.php:389
+msgid "Posts excerpt"
+msgstr ""
+
+#: templates/settings.php:393
+msgid "Posts content"
+msgstr ""
+
+#: templates/settings.php:397
+msgid "Term Taxonomies"
+msgstr ""
+
+#: templates/settings.php:401
+msgid "Posts Metas"
+msgstr ""
+
+#: templates/settings.php:405
+msgid "Search Areas"
+msgstr ""
+
+#: templates/settings.php:406
+msgid ""
+"Hidden keys (internal values like order metas and such) which start with "
+"underscore are not included. On large databases PostMetas may slow down the "
+"suggestions. Be sure or check your load time first."
+msgstr ""
+
+#: templates/settings.php:413 templates/settings.php:432
+msgid "Include Post Types"
+msgstr ""
+
+#: templates/settings.php:433
+msgid "Uncheck uneccessary post types for better performance"
+msgstr ""
+
+#: templates/settings.php:444 templates/settings.php:450
+msgid "Custom Action Hook"
+msgstr ""
+
+#: templates/settings.php:451
+msgid ""
+"If you need to use different action hook instead of <code>get_search_form</"
+"code>, enter the action name here. It will be usefull if you are using a "
+"custom theme. You can also add the code below anywhere you want it to be "
+"shown"
+msgstr ""
+
+#: templates/settings.php:464
+msgid "Save Settings"
+msgstr ""
+
+#: templates/settings.php:465
+msgid "Back to Dashboard"
+msgstr ""
+
+#~ msgid "First Name"
+#~ msgstr "نام"
+
+#~ msgid "Edit"
+#~ msgstr "ویرایش"
+
+#~ msgid "Published"
+#~ msgstr "آنلاین"
+
+#~ msgid "Pending"
+#~ msgstr "در حال بازبینی"
+
+#~ msgid "Draft"
+#~ msgstr "پیش نویس"
+
+#~ msgid "Trash"
+#~ msgstr "زباله دان"
+
+#~ msgid "No announcement found."
+#~ msgstr "اعلانیه پیدا نشد"
+
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "Social Profiles"
+#~ msgstr "شبکه های اجتماعی"
+
+#~ msgid "Zone Name"
+#~ msgstr "نام محدوده"
+
+#~ msgid "Region(s)"
+#~ msgstr "نواحی"
+
+#~ msgid "Shipping Method"
+#~ msgstr "روش حمل و نقل"
+
+#~ msgid "Add Shipping Method"
+#~ msgstr "روش حمل و نقل اضافه کنید"
+
+#~ msgid ""
+#~ "No shipping zone found for configuration. Please contact with admin for "
+#~ "manage your store shipping"
+#~ msgstr ""
+#~ "محدوده حمل و نقلی تعریف نشده است. لطفا با مدیریت تماس بگیرید و سیستم حمل "
+#~ "و نقل شما را تنظیم کنند."
+
+#~ msgid "Cost"
+#~ msgstr "هزینه"
+
+#~ msgid "No Announcement found"
+#~ msgstr "اعلانیه پیدا نشد"
+
+#~ msgid "Clear All"
+#~ msgstr "پاک کردن همه"
+
+#~ msgid "Clear"
+#~ msgstr "پاک کردن"
+
+#~ msgid "Visible on the product page"
+#~ msgstr "نمایش در صفحه کادو"
+
+#~ msgid "Used for variations"
+#~ msgstr "استفاده برای تنوع دادن به کادو"
+
+#~ msgid "Option..."
+#~ msgstr "گزینه ها..."
+
+#~ msgid "Coupon has been deleted successfully!"
+#~ msgstr "کوپن شما با موفقیت حذف شد"
+
+#~ msgid "Coupon has been saved successfully!"
+#~ msgstr "کوپن شما با موفقیت ذخیره شد"
+
+#~ msgid "Coupon has been updated successfully!"
+#~ msgstr "کوپن شما با موفقیت به روزرسانی شد"
+
+#~ msgid "No coupons found!"
+#~ msgstr "کوپنی پیدا نشد!"
+
+#~ msgid "Percentage"
+#~ msgstr "درصد"
+
+#~ msgid "Flat"
+#~ msgstr "نرخ ثابت"
+
+#~ msgid "Duplicate"
+#~ msgstr "کپی کردن"
+
+#~ msgid "Simple"
+#~ msgstr "ساده"
+
+#~ msgid "Variable"
+#~ msgstr "متنوع"
+
+#~ msgid "Group Product"
+#~ msgstr "کادو گروه شده"
+
+#~ msgid "Pending Reivew"
+#~ msgstr "در حال بررسی"
+
+#~ msgid "Accepted"
+#~ msgstr "تایید شده"
+
+#~ msgid "Order"
+#~ msgstr "سفارش"
+
+#~ msgid "Withdraw"
+#~ msgstr "درخواست وجه"
+
+#~ msgid "Refund"
+#~ msgstr "بازگرداندن"
+
+#~ msgid "Shipping"
+#~ msgstr "ارسال"
+
+#~ msgid "Social Profile"
+#~ msgstr "شبکه های اجتماعی"
+
+#~ msgid "Store SEO"
+#~ msgstr "سئو فروشگاه"
+
+#~ msgid "Shipping Settings"
+#~ msgstr "تنظیمات حمل و نقل"
+
+#~ msgid ""
+#~ "Social profiles help you to gain more trust. Consider adding your social "
+#~ "profile links for better user interaction."
+#~ msgstr ""
+#~ "شبکه های اجتماعی به جلب اعتماد مشتریانتان می افزاید. جهت ارتباط بهتر با "
+#~ "مشتریان خود لینک شبکه های اجتماعی خود را جهت نمایش در صفحه پروفایل خود "
+#~ "وارد نمایید"
+
+#~ msgid ""
+#~ "A shipping zone is a geographic region where a certain set of shipping "
+#~ "methods are offered. We will match a customer to a single zone using "
+#~ "their shipping address and present the shipping methods within that zone "
+#~ "to them."
+#~ msgstr ""
+#~ "محدوده حمل و نقل یک منطقه جغرافیایی است که روش های حمل و نقل خاص خود را "
+#~ "ارائه می دهد. ما هر مشتری را با یک روش بر اساس آدرس ارسال او تطابق می "
+#~ "دهیم و روش ارسال مرتبط با آن را در محدوده تعریف شده ارائه می دهیم."
+
+#~ msgid "If you want to use the previous shipping system then"
+#~ msgstr "اگر شما حمل و نقل های به سیستم قدیمی را می خواهید پس"
+
+#~ msgid "Click Here"
+#~ msgstr "اینجا کلیک کنید"
+
+#~ msgid ""
+#~ "This page contains your store-wide shipping settings, costs, shipping and "
+#~ "refund policy."
+#~ msgstr ""
+#~ "این صفحه تنظیمات سراسری حمل و نقل فروشگاه شما را شامل می شود مانند هزینه، "
+#~ "نحوه ارسال و سیاست های بازگشت کالا"
+
+#~ msgid ""
+#~ "You can enable/disable shipping for your products. Also you can override "
+#~ "these shipping costs while creating or editing a product."
+#~ msgstr "شما می توانید حمل و نقل را برای هر کادو خود فعال / غیرفعال کنید"
+
+#~ msgid "If you want to configure zone wise shipping then"
+#~ msgstr "اگر می خواهید حمل و نقل بر اساس محدوده را داشته باشید پس"
+
+#~ msgid "Add Profile Picture to gain %s%% progress"
+#~ msgstr "افزودن عکس پروفایل %s%% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add %s profile link to gain %s%% progress"
+#~ msgstr "افزودن %s لینک پروفایل %s %% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add Phone to gain %s%% progress"
+#~ msgstr "افزودن تلفن %s  %%پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add Banner to gain %s%% progress"
+#~ msgstr "افزودن عکس بنر فروشگاه %s  %% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add Store Name to gain %s%% progress"
+#~ msgstr "افزودن نام فروشگاه %s  %% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add address to gain %s%% progress"
+#~ msgstr "افزودن آدرس %s %% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add a Payment method to gain %s%% progress"
+#~ msgstr "افزودن روش پرداخت %s  %% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add Map location to gain %s%% progress"
+#~ msgstr "افزودن مکان نقشه %s  %% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "This product does not ship to your chosen location: %s"
+#~ msgstr "این کادو امکان ارسال به محل انتخابی شما را ندارد: %s"
+
+#~ msgid "These products do not ship to your chosen location.: %s"
+#~ msgstr "این کادوها امکان ارسال به محل انتخابی شما را ندارد: %s"
+
+#~ msgid "You have no access to save this shipping options"
+#~ msgstr "شما دسترسی لازم جهت ذخیره سازی این حمل و نقل را ندارید"
+
+#~ msgid "Ready to ship in"
+#~ msgstr "آماده ارسال به"
+
+#~ msgid "from"
+#~ msgstr "از"
+
+#~ msgid "Shipping Policy"
+#~ msgstr "سیاست های ارسال"
+
+#~ msgid "Refund Policy"
+#~ msgstr "سیاست های بازگشت کالا"
+
+#~ msgid "Enable Shipping"
+#~ msgstr "فعال سازی حمل و نقل"
+
+#~ msgid "Processing Time"
+#~ msgstr "زمان تحویل"
+
+#~ msgid "%s Discount"
+#~ msgstr "%s تخفیف"
+
+#~ msgid "Coupon Code: <strong>%s</strong>"
+#~ msgstr "کد کوپن: <strong>%s</strong>"
+
+#~ msgid "Expiring in %s"
+#~ msgstr "اعتبار تا %s"
+
+#~ msgid "Updates"
+#~ msgstr "به روزرسانی ها"
+
+#~ msgid "Tools"
+#~ msgstr "ابزارها"
+
+#~ msgid "Completed"
+#~ msgstr "تکمیل شده"
+
+#~ msgid "Processing"
+#~ msgstr "در حال انجام"
+
+#~ msgid "On-hold"
+#~ msgstr "در انتظار بررسی"
+
+#~ msgid "Order Total"
+#~ msgstr "جمع کل سفارش"
+
+#~ msgid "No Announcement Found"
+#~ msgstr "اعلانیه پیدا نشد"
+
+#~ msgid "All"
+#~ msgstr "همه "
+
+#~ msgid "Shop Name"
+#~ msgstr "نام فروشگاه (به فارسی)"
+
+#~ msgid "Phone Number"
+#~ msgstr "شماره تلفن "
+
+#~ msgid "No announcement found"
+#~ msgstr "اعلانیه پیدا نشد"
+
+#~ msgid "Attribute"
+#~ msgstr "ویژگی"
+
+#~ msgid "Manage attributes"
+#~ msgstr "مدیریت ویژگی ها"
+
+#~ msgid "Custom Attribute"
+#~ msgstr "ویژگی دلخواه"
+
+#~ msgid "Add attribute"
+#~ msgstr "افزودن ویژگی"
+
+#~ msgid "Save attribute"
+#~ msgstr "ذخیره ویژگی"
+
+#~ msgid "Product Status"
+#~ msgstr "وضعیت کادو"
+
+#~ msgid "Visibility"
+#~ msgstr "وسعت نمایش"
+
+#~ msgid "Purchase Note"
+#~ msgstr "یادداشت قبل از خرید"
+
+#~ msgid "Customer will get this info in their order email"
+#~ msgstr "مشتریان این اطلاعات را در ایمیل خریدشان دریافت میکنند."
+
+#~ msgid "Enable product reviews"
+#~ msgstr "فعالسازی نقد و بررسی برای این کادو"
+
+#~ msgid "Shipping and Tax"
+#~ msgstr "حمل و نقل و مالیات"
+
+#~ msgid "Manage shipping and tax for this product"
+#~ msgstr "ارسال های عمومی به این روش حمل و نقل افزوده خواهد شد"
+
+#~ msgid "This product requires shipping"
+#~ msgstr "این کادو مستقیما از این فروشگاه ارسال می شود"
+
+#~ msgid "weight (%s)"
+#~ msgstr "وزن (%s)"
+
+#~ msgid "length (%s)"
+#~ msgstr "طول (%s)"
+
+#~ msgid "width (%s)"
+#~ msgstr "عرض(%s)"
+
+#~ msgid "height (%s)"
+#~ msgstr "ارتفاع(%s)"
+
+#~ msgid "Shipping Class"
+#~ msgstr "کلاس حمل و نقل"
+
+#~ msgid "No shipping class"
+#~ msgstr "کلاس حمل و نقلی وجود ندارد"
+
+#~ msgid ""
+#~ "Shipping classes are used by certain shipping methods to group similar "
+#~ "products."
+#~ msgstr ""
+#~ "کلاس های حمل و نقل برای حمل و نقل هایی تعیین شده برای گروهی از کادوها می "
+#~ "باشد"
+
+#~ msgid "Override your store's default shipping cost for this product"
+#~ msgstr ""
+#~ "مبلغ پیش فرض فروشگاه را برای حمل و نقل این کادو با این تنظیمات جایگزین کن"
+
+#~ msgid "Additional cost"
+#~ msgstr "هزینه اضافی"
+
+#~ msgid "Per Qty Additional Price"
+#~ msgstr "قیمت اضافی برای هر تعداد"
+
+#~ msgid "Shipping only"
+#~ msgstr "حمل نقل فقط به "
+
+#~ msgctxt "Tax status"
+#~ msgid "None"
+#~ msgstr "هیچ کدام"
+
+#~ msgid "Tax Class"
+#~ msgstr "کلاس مالیات"
+
+#~ msgid "All (%d)"
+#~ msgstr "همه (%d)"
+
+#~ msgid " (%d)"
+#~ msgstr "(%d)"
+
+#~ msgid "Booking Status"
+#~ msgstr "وضعیت رزرو"
+
+#~ msgid "Booked Product"
+#~ msgstr "کادو رزرو شده"
+
+#~ msgid "Customer"
+#~ msgstr "مشتری"
+
+#~ msgid "Update"
+#~ msgstr "ذخیره "
+
+#~ msgid "Address:"
+#~ msgstr "آدرس:"
+
+#~ msgid "Category"
+#~ msgstr "دسته بندی"
+
+#~ msgid "Select product category"
+#~ msgstr "دسته بندی کادو را انتخاب کنید"
+
+#~ msgid "Import"
+#~ msgstr "ایمپورت"
+
+#~ msgid "Export"
+#~ msgstr "اکسپورت"
+
+#~ msgid "Upsells"
+#~ msgstr "فروش همزمان"
+
+#~ msgid "Cross-sells"
+#~ msgstr "فروش تقاطعی"
+
+#~ msgid "Inbox"
+#~ msgstr "اینباکس"
+
+#~ msgctxt "ekado"
+#~ msgid "Vacation"
+#~ msgstr "تعطیلات"
+
+#~ msgid "Vacation <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Vacation <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "تعطیلات <span class=\"count\">(%s)</span>"
+
+#~ msgid "-- Select --"
+#~ msgstr "-- انتخاب --"
+
+#~ msgid "Instantly Close"
+#~ msgstr "بستن ناگهانی"
+
+#~ msgid "Date Wise Close"
+#~ msgstr "بستن زمان دار"
+
+#~ msgid "Go to Vacation"
+#~ msgstr "رفتن به تعطیلات"
+
+#~ msgid "Want to go vacation by closing our store publically"
+#~ msgstr "می خواهید به تعطیلات بروید، بستن فروشگاه برای عموم"
+
+#~ msgid "Closing Style"
+#~ msgstr "استایل بستن "
+
+#~ msgid "Date Range"
+#~ msgstr "محدوده زمانی"
+
+#~ msgid "From"
+#~ msgstr "از "
+
+#~ msgid "Set Vacation Message"
+#~ msgstr "پیام تعطیلات را بنویسید"
+
+#~ msgid "Vacation (%d)"
+#~ msgstr "تعطیلات (%d)"
+
+#~ msgid "In vacation"
+#~ msgstr "در تعطیلات"
+
+#~ msgid "Value(s)"
+#~ msgstr "مقادیر"
+
+#~ msgid "Select terms"
+#~ msgstr "انتخاب "
+
+#~ msgid "Select all"
+#~ msgstr "انتخاب همه"
+
+#~ msgid "Select none"
+#~ msgstr "انتخاب هیچکدام"
+
+#~ msgid "Category :"
+#~ msgstr "دسته بندی:"
+
+#~ msgid "Category: "
+#~ msgstr "دسته بندی:"
+
+#~ msgid "Address"
+#~ msgstr "آدرس کامل"
+
+#~ msgid "Upload Photo"
+#~ msgstr "آپلود عکس"
+
+#~ msgid "Sales by day"
+#~ msgstr "فروش روزانه"
+
+#~ msgid "Top selling"
+#~ msgstr "پر فروش ترین ها"
+
+#~ msgid "Top earning"
+#~ msgstr "پر درآمدترین ها"
+
+#~ msgid "Statement"
+#~ msgstr "بیانیه"
+
+#~ msgid "Export All"
+#~ msgstr "اکسپورت همه"
+
+#~ msgid "Opening Balance"
+#~ msgstr "اعتبار اولیه"
+
+#~ msgid "This month's sales"
+#~ msgstr "فروش این ماه"
+
+#~ msgid "Sales in this period"
+#~ msgstr "فروش در این دوره"
+
+#~ msgid "%s sales in this period"
+#~ msgstr "%s فروش در این دوره"
+
+#~ msgid "%s average daily sales"
+#~ msgstr "%s میانگین فروش روزانه"
+
+#~ msgid "%s orders placed"
+#~ msgstr "%s سفارش ثبت شده"
+
+#~ msgid "%s items purchased"
+#~ msgstr "%s آیتم خریداری شده"
+
+#~ msgid "%s charged for shipping"
+#~ msgstr "%s هزینه حمل و نقل"
+
+#~ msgid "%s worth of coupons used"
+#~ msgstr "%s ارزش کوپن ها"
+
+#~ msgid "Sales total"
+#~ msgstr "مجموع فروش"
+
+#~ msgid "Number of orders"
+#~ msgstr "تعداد سفارشات"
+
+#~ msgid "sales"
+#~ msgstr "فروش"
+
+#~ msgid "Product does not exist"
+#~ msgstr "کادو وجود ندارد"
+
+#~ msgid "Earning"
+#~ msgstr "درآمد"
+
+#~ msgid "Shipping: "
+#~ msgstr "حمل و نقل:"
+
+#~ msgid "Coupon Title"
+#~ msgstr "نام کوپن"
+
+#~ msgid "Discount Type"
+#~ msgstr "نوع تخفیف"
+
+#~ msgid "Product Discount"
+#~ msgstr "تخفیف کادو"
+
+#~ msgid "Product % Discount"
+#~ msgstr "تخفیف درصدی کادو"
+
+#~ msgid "Email Restrictions"
+#~ msgstr "محدودیت براساس ایمیل"
+
+#~ msgid "Email restrictions"
+#~ msgstr "محدودیت براساس ایمیل"
+
+#~ msgid "Usage Limit"
+#~ msgstr "محدودیت استفاده"
+
+#~ msgid "Expire Date"
+#~ msgstr "تاریخ انقضا"
+
+#~ msgid "Exclude Sale Items"
+#~ msgstr "برای کادوهای تخفیف دار اعمال نشود"
+
+#~ msgid "Check this box if the coupon should not apply to items on sale."
+#~ msgstr ""
+#~ "اگر نمی خواهید این تخفیف برای کادوهای تخفیفدار لحاظ شود این گزینه را تیک "
+#~ "بزنید"
+
+#~ msgid ""
+#~ " Per-item coupons will only work if the item is not on sale. Per-cart "
+#~ "coupons will only work if there are no sale items in the cart."
+#~ msgstr ""
+#~ "کوپن های براساس آیتم فقط برای کادوهایی که تخفیف ندارند اعمال می شوند و "
+#~ "کوپن های در هر سبد زمانی اعمال میشوند که کادوی تخفیفدار در سبد خرید وجود "
+#~ "نداشته باشد."
+
+#~ msgid "Minimum Amount"
+#~ msgstr "حداقل مقدار خرید"
+
+#~ msgid "Select Some Product"
+#~ msgstr "چند کادو انتخاب کنید"
+
+#~ msgid "Exclude products"
+#~ msgstr "حذف کادوها از این تخفیف"
+
+#~ msgid "Product categories"
+#~ msgstr "دسته بندی کادوها"
+
+#~ msgid "Any category"
+#~ msgstr "هر دسته بندی"
+
+#~ msgid "Exclude product categories"
+#~ msgstr "حذف دسته بندی کادوها"
+
+#~ msgid "No categories"
+#~ msgstr "هیچ دسته بندی"
+
+#~ msgid "Show on store"
+#~ msgstr "نمایش در فروشگاه"
+
+#~ msgid "Check this box if you want to show this coupon in store page."
+#~ msgstr ""
+#~ "اگر می خواهید این کوپن در صفحه فروشگاه شما نمایش داده شود این گزینه را "
+#~ "تیک بزنید."
+
+#~ msgid "Edit Coupon"
+#~ msgstr "ویرایش کوپن"
+
+#~ msgid "Add Coupon"
+#~ msgstr "افزودن کوپن"
+
+#~ msgid "Add new Coupon"
+#~ msgstr "افزودن کوپن جدید"
+
+#~ msgid "Code"
+#~ msgstr "کد"
+
+#~ msgid "Coupon type"
+#~ msgstr "نوع کوپن"
+
+#~ msgid "Coupon amount"
+#~ msgstr "مقدار کوپن"
+
+#~ msgid "Product IDs"
+#~ msgstr "شناسه کادوها"
+
+#~ msgid "Usage / Limit"
+#~ msgstr "محدودیت استفاده"
+
+#~ msgid "Expiry date"
+#~ msgstr "تاریخ انقضا"
+
+#~ msgid "delete"
+#~ msgstr "حذف"
+
+#~ msgid "Fixed Amount"
+#~ msgstr "نرخ ثابت"
+
+#~ msgid "Percent"
+#~ msgstr "درصد"
+
+#~ msgid "See all"
+#~ msgstr "نمایش همه"
+
+#~ msgid "%s / %s"
+#~ msgstr "%s / %s"
+
+#~ msgid "%s / &infin;"
+#~ msgstr "%s / &infin;"
+
+#~ msgid "Latest Announcement"
+#~ msgstr "آخرین اعلانات"
+
+#~ msgid "See All"
+#~ msgstr "نمایش همه"
+
+#~ msgid "Spam"
+#~ msgstr "هرزنامه"
+
+#~ msgid "Become a Vendor"
+#~ msgstr "فروشنده شوید!"
+
+#~ msgid "Shop URL"
+#~ msgstr "آدرس اینترنتی فروشگاه (URL)"
+
+#~ msgid ""
+#~ "I have read and agree to the <a target=\"_blank\" href=\"%s\">Terms &amp; "
+#~ "Conditions</a>."
+#~ msgstr ""
+#~ "<a target=\"_blank\" href=\"%s\">قوانین و مقررات</a> را خوانده ام و آ ن "
+#~ "ها را می پذیرم."
+
+#~ msgid "I am a customer"
+#~ msgstr "خریدار هستم"
+
+#~ msgid "I am a vendor"
+#~ msgstr "فروشنده هستم"
+
+#~ msgid "Profile complete"
+#~ msgstr "پروفایل شما کامل شده است"
+
+#~ msgid "Update account to Vendor"
+#~ msgstr "به روزرسانی حساب کاربری به فروشنده"
+
+#~ msgid "Item"
+#~ msgstr "آیتم"
+
+#~ msgid "Qty"
+#~ msgstr "تعداد"
+
+#~ msgid "Total"
+#~ msgstr "مجموع"
+
+#~ msgid "Discount"
+#~ msgstr "تخفیف"
+
+#~ msgid "Request Refund"
+#~ msgstr "درخواست مرجوعی"
+
+#~ msgid "Enable bulk discount"
+#~ msgstr "تخفیفات انبوه (تعداد بالا) را فعال کنید"
+
+#~ msgid "Minimum quantity"
+#~ msgstr "حداقل تعداد سفارش"
+
+#~ msgid "Discount %"
+#~ msgstr "تخفیف %"
+
+#~ msgid "Search for a product&hellip;"
+#~ msgstr "کادویی را جستجو کنید &hellip;"
+
+#~ msgid "Linked Products"
+#~ msgstr "کادوهای لینک شده"
+
+#~ msgid "Set your linked products for upsell and cross-sells"
+#~ msgstr "کادوهای لینک شده خود را جهت نمایش همزمان و تقاطعی وارد نمایید"
+
+#~ msgid ""
+#~ "Upsells are products which you recommend instead of the currently viewed "
+#~ "product, for example, products that are more profitable or better quality "
+#~ "or more expensive."
+#~ msgstr ""
+#~ "فروش همزمان کادوهایی هستند که در صفحه ی کادویی که مشتریان در حال بازدید "
+#~ "می باشند نمایش داده می شود. کادوهایی که کیفیت بالاتری، سود بیشتری و یا "
+#~ "حتی قیمت بالاتری دارند و می توانند جایگزین خوبی باشند را در اینجا وارد "
+#~ "نمایید."
+
+#~ msgid ""
+#~ "Cross-sells are products which you promote in the cart, based on the "
+#~ "current product."
+#~ msgstr ""
+#~ "در این نوع فروش کادوها در سبد خرید مشتری نمایش داده می شوند زمانی که این "
+#~ "کادو در سبد وجود داشته باشد."
+
+#~ msgid "Inventory"
+#~ msgstr "انبارداری"
+
+#~ msgid "Discount Options"
+#~ msgstr "تنظیمات تخفیف"
+
+#~ msgid "Set your discount for this product"
+#~ msgstr "تخفیف خود را برای این کادو تنظیم کنید"
+
+#~ msgid " and Variation"
+#~ msgstr " و تنوع"
+
+#~ msgid "Manage attributes and variations for this variable product."
+#~ msgstr "ویژگی ها و تنوعات را برای این کادو مدیریت کنید"
+
+#~ msgid "Manage attributes for this simple product."
+#~ msgstr "ویژگی ها را برای این کادو ساده مدیریت کنید"
+
+#~ msgid "Submitted on "
+#~ msgstr "ارسال شده در "
+
+#~ msgid "Not Spam"
+#~ msgstr "هرزنامه نیست"
+
+#~ msgid "Unapprove"
+#~ msgstr "تایید نشده"
+
+#~ msgid "View Comment"
+#~ msgstr "نمایش نقد و بررسی"
+
+#~ msgid "Author"
+#~ msgstr "نویسنده"
+
+#~ msgid "Comment"
+#~ msgstr "نقد و بررسی"
+
+#~ msgid "Link To"
+#~ msgstr "لینک به"
+
+#~ msgid "-None-"
+#~ msgstr "هیچ"
+
+#~ msgid "Mark Approve"
+#~ msgstr "تایید"
+
+#~ msgid "Mark Spam"
+#~ msgstr "هرزنامه"
+
+#~ msgid "Mark Trash"
+#~ msgstr "زباله دان"
+
+#~ msgid "Mark Not Spam"
+#~ msgstr "هرزنامه نیست"
+
+#~ msgid "Delete permanently"
+#~ msgstr "حذف برای همیشه"
+
+#~ msgid "Approved ("
+#~ msgstr "تایید شده ("
+
+#~ msgid ")"
+#~ msgstr ")"
+
+#~ msgid "Pending ("
+#~ msgstr "در انتظار بررسی ("
+
+#~ msgid "Spam ("
+#~ msgstr "هرزنامه ("
+
+#~ msgid "Trash ("
+#~ msgstr "زباله دان ("
+
+#~ msgid "Discount "
+#~ msgstr "تخفیف"
+
+#~ msgid "Enable storewide discount"
+#~ msgstr "فعال سازی تخفیف سراسری"
+
+#~ msgid "Minimum Order Amount"
+#~ msgstr "حداقل مبلغ خرید"
+
+#~ msgid "SEO Title :"
+#~ msgstr "عنوان سئو"
+
+#~ msgid "SEO Title is shown as the title of your store page"
+#~ msgstr "عنوان سئو به عنوان نام صفحه در نظر گرفته می شود"
+
+#~ msgid "Meta Description :"
+#~ msgstr "توضیحات متا:"
+
+#~ msgid ""
+#~ "The meta description is often shown as the black text under the title in "
+#~ "a search result. For this to work it has to contain the keyword that was "
+#~ "searched for and should be less than 156 chars."
+#~ msgstr ""
+#~ "این متن عموما به عنوان متن توضیحات جستجو در زیر لینک شما در گوگل قرار "
+#~ "میگیرد. برای اینکه این متا تگ کار کند، می بایست کلیدواژه هایی مرتبط با "
+#~ "فروشگاه شما را دربرداشته باشد به گونه ای که از 156 کاراکتر تجاوز نکند."
+
+#~ msgid ""
+#~ "Insert some comma separated keywords for better ranking of your store "
+#~ "page."
+#~ msgstr ""
+#~ "کلیدواژه های جدا شده با کاما (,) را وارد نمایید تا برای موتورهای جستجو گر "
+#~ "بهینه تر شوید. کلمات هر کدام یک کلیدواژه محسوب می شوند"
+
+#~ msgid "Facebook Title :"
+#~ msgstr "عنوان اشتراک گذاری در فیس بوک"
+
+#~ msgid "Facebook Description :"
+#~ msgstr "توضیحات فیسبوک"
+
+#~ msgid "Facebook Image :"
+#~ msgstr "تصویر فیسبوک"
+
+#~ msgid "Twitter Title :"
+#~ msgstr "عنوان توییتر"
+
+#~ msgid "Twitter Description :"
+#~ msgstr "توضیحات توییتر"
+
+#~ msgid "Twitter Image :"
+#~ msgstr "تصویر توییتر"
+
+#~ msgid "Check this if you want to enable shipping for your store"
+#~ msgstr ""
+#~ "این را تیک بزنید اگر می خواهید این حمل و نقل را برای فروشگاه خود فعال کنید"
+
+#~ msgid "Enable shipping functionality"
+#~ msgstr "فعالسازی قابلیت حمل و نقل"
+
+#~ msgid "Default Shipping Price"
+#~ msgstr "هزینه پیش فرض حمل و نقل"
+
+#~ msgid ""
+#~ "This is the base price and will be the starting shipping price for each "
+#~ "product"
+#~ msgstr ""
+#~ "این قیمت پایه می باشد و هزینه حمل و نقل اولیه برای هر آیتم خواهد بود"
+
+#~ msgid "Per Product Additional Price"
+#~ msgstr "قیمت اضافی به ازای هر آیتم"
+
+#~ msgid ""
+#~ "If a customer buys more than one type product from your store, first "
+#~ "product of the every second type will be charged with this price"
+#~ msgstr ""
+#~ "اکر مشتری بیش از یک آیتم خرید که از هم متفاوت بودند، اولین آیتم از هر نوع "
+#~ "هزینه حمل و نقل خواهد داشت."
+
+#~ msgid "Every second product of same type will be charged with this price"
+#~ msgstr "دومین آیتم از نوع خاص با ان قیمت محاسبه خواهد شد."
+
+#~ msgid "The time required before sending the product for delivery"
+#~ msgstr "زمان مورد نیاز قبل از ارسل کادو برای تحویل"
+
+#~ msgid "Write your terms, conditions and instructions about shipping"
+#~ msgstr "شرایط و قوانین خود را برای این حمل و نقل بنویسید"
+
+#~ msgid "Write your terms, conditions and instructions about refund"
+#~ msgstr "شرایط و قوانین خود درباره بازگشت کالا را نیز بنویسید"
+
+#~ msgid "Ships from:"
+#~ msgstr "ارسال از "
+
+#~ msgid ""
+#~ "Add the countries you deliver your products to. You can specify states as "
+#~ "well. If the shipping price is same except some countries/states, there "
+#~ "is an option <strong>Everywhere Else</strong>, you can use that."
+#~ msgstr ""
+#~ "کشورهایی که شما به آن ها ارسال میکنید را اضافه کنید. شما می توانید استان "
+#~ "ها را نیز مدیریت نمایید. اگر حمل و نقل عموما ثابت است به جز برخی از استان "
+#~ "ها، گزینه دیگر به نام همه جای دیگر می توانید استفاده نمایید."
+
+#~ msgid "Ship to"
+#~ msgstr "ارسال به"
+
+#~ msgid "Add Location"
+#~ msgstr "افزودن مکان"
+
+#~ msgid "Update Settings"
+#~ msgstr "به روزرسانی تنظیمات"
+
+#~ msgid "% Profile complete"
+#~ msgstr "% پروفایل شما کامل شده است."
